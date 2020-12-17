@@ -1,5 +1,5 @@
 # Hey, I am Janindu Malshan 👋
-<img align='centre' src='https://telegra.ph/file/032e346e61e5e2ac25798.png' width='500"'>
+<img align='centre' src='https://telegra.ph/file/4b2c4b8130aefe6c9abc4.jpg' width='500"'>
 
 # MY TOOLS AND LANG.
 
@@ -16,12 +16,10 @@
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=imjanindu&theme=blue-green)
 
-# Follow me on
+# Contact me on
 
 <p align="left">
   <a href="https://t.me/ImJanindu">
     <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" width="40" height="40">
   </a>
-  <a href="https://www.facebook.com/imjanindu">
-    <img src="https://github.com/the-tech-academy/virtual_dr/blob/master/facebook.png" width="40" height="40">
 </p>
