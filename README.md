@@ -1,6 +1,6 @@
 # Hey, I am Janindu Malshan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align='centre' src='https://telegra.ph/file/4b2c4b8130aefe6c9abc4.jpg' width='500"'>
+<a href="https://t.me/imjanindu"><img align='centre' src='https://telegra.ph/file/4b2c4b8130aefe6c9abc4.jpg' width='500"'> </a>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
