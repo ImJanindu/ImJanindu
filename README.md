@@ -1,11 +1,6 @@
 # Hey, I am Janindu Malshan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-|  <a href="https://t.me/imjanindu/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Janindu](https://t.me/imjanindu)**                                                                                |
-| <a href="https://github.com/imjanindu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/imjanindu"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
-
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/3c577341c45ea55a790b5.jpg" />
+<img align='centre' src='https://telegra.ph/file/4b2c4b8130aefe6c9abc4.jpg' width='500"'>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -22,15 +17,18 @@ You can use the website to generate badges: https://shields.io/
 
 - ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
 
+
 # MY STATUS
 
 ![Janindu's github stats](https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple)
 - ![Profile views](https://gpvc.arturio.dev/imjanindu)
 - [![GitHub followers](https://img.shields.io/github/followers/imjanindu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/imjanindu?tab=followers)
 
+
 # MOST USED LANGUAGE
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=imjanindu&theme=blue-green)
+
 
 # CONTACT ME ON
 
