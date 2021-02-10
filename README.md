@@ -1,10 +1,11 @@
 # Hey, I am Janindu Malshan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<img align='centre' src='https://telegra.ph/file/4b2c4b8130aefe6c9abc4.jpg' width='500"'>
 
 |  <a href="https://t.me/imjanindu/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Janindu](https://t.me/imjanindu)**                                                                                |
 | <a href="https://github.com/imjanindu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/imjanindu"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
+
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/3c577341c45ea55a790b5.jpg" />
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
