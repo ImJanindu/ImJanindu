@@ -12,7 +12,6 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-
 # MY TOOLS AND LANG
 
 - ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
@@ -23,6 +22,7 @@ You can use the website to generate badges: https://shields.io/
 ![Janindu's github stats](https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple)
 - ![Profile views](https://gpvc.arturio.dev/imjanindu)
 - [![GitHub followers](https://img.shields.io/github/followers/imjanindu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/imjanindu?tab=followers)
+
 
 
 # MOST USED LANGUAGE
