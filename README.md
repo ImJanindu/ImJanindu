@@ -1,6 +1,6 @@
 # Hey, I am Janindu Malshan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<a href="https://t.me/imjanindu"><img align='centre' src='https://telegra.ph/file/4b2c4b8130aefe6c9abc4.jpg' width='500"'> </a>
+<a href="https://t.me/imjanindu"><img align='centre' src='https://telegra.ph/file/0e90af5ac1796403942da.jpg' width='500"'> </a>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -25,10 +25,6 @@ You can use the website to generate badges: https://shields.io/
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=imjanindu&theme=blue-green)
 
-# CONTACT ME ON
 
-<p align="left">
-<a href="https://t.me/imjanindu" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com" target="blank"><img align="center" src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/imjanindu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
+## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/ImJanindu) 
+<br>
