@@ -1,6 +1,6 @@
 # Hey, I am Janindu Malshan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### Python and HTML lover ❤
+- ### Python and HTML lover ❤
 
 <a href="https://janindu.com"><img align='centre' src='https://telegra.ph/file/a78398f8b6dc5f6ad3eef.jpg' width='500"'> </a>
 
