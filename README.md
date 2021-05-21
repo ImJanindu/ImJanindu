@@ -2,7 +2,7 @@
 
 ### Python and HTML lover ❤
 
-<a href="https://t.me/imjanindu"><img align='centre' src='https://telegra.ph/file/a78398f8b6dc5f6ad3eef.jpg' width='500"'> </a>
+<a href="https://janindu.com"><img align='centre' src='https://telegra.ph/file/a78398f8b6dc5f6ad3eef.jpg' width='500"'> </a>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
