@@ -1,5 +1,7 @@
 # Hey, I am Janindu Malshan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+### Python and HTML lover ❤
+
 <a href="https://t.me/imjanindu"><img align='centre' src='https://telegra.ph/file/a78398f8b6dc5f6ad3eef.jpg' width='500"'> </a>
 
 <!-- Your badges
@@ -10,10 +12,6 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Janindu:janindumalshan9272@gmail.com)
 &nbsp;
-
-# MY TOOLS AND LANG
-
-- ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
 
 # MY STATUS
 
