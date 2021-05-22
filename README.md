@@ -1,28 +1,27 @@
-# Hey, I am Janindu Malshan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<p align="center"> <h1 align="center"> Janindu Malshan </h1> </p>
+<p align="center">
+<a href="https://instagram.com/imjanindu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Janindu Malshan" height="20" width="20" /></a>
+<a href="https://facebook.com/imjanindu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Janindu Malshan" height="20" width="20" /></a>
+<a href="https://github.com/imjanindu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Janindu Malshan" height="20" width="20" /></a>
+<a href="https://t.me/imjanindu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Janindu Malshan" height="20" width="20" /></a>
+<a href="https://github.com/imjanindu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Janindu Malshan" height="20" width="20" /></a>
+</p>
 
-- <b> Python and HTML lover ❤</b>
+✨ About Me:
 
-<a href="https://janindu.com"><img align='centre' src='https://telegra.ph/file/a78398f8b6dc5f6ad3eef.jpg' width='500"'> </a>
+I'm Janindu. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community and currently working on opensource projects at [Infinity Bots](https://github.com/Infinity-Bots). I love Python and HTML. 
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+📫 How to reach me:
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/imjanindu)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Janindu:janindumalshan9272@gmail.com)
-&nbsp;
+`Website:` [Janindu.com](https://janindu.com) 
+`Gmail:` janindumalshan259@gmail.com
 
-# MY STATUS
+🔭 My GitHub Stats:
 
-![Janindu's github stats](https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple)
 - ![Profile views](https://gpvc.arturio.dev/imjanindu)
-- [![GitHub followers](https://img.shields.io/github/followers/imjanindu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/imjanindu?tab=followers)
 
-# MOST USED LANGUAGE
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple alt=ImJanindu />
+</p>
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=imjanindu&theme=blue-green)
 
-
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/ImJanindu) 
-<br>
