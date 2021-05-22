@@ -2,7 +2,7 @@
 
 |<a href="https://t.me/imjanindu/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
-|       **[Janindu](https://t.me/imjanindu)**                                                                                |
+|       **[Janindu](https://janindu.com)**                                                                                |
 | <a href="https://github.com/imjanindu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://facebook.com/imjanindu"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://instagram.com/imjanindu"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a>|
 
 <br>✨ About Me:
