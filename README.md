@@ -13,7 +13,7 @@ I'm Janindu. I'm a Full Stack Developer who is passionate about making open-sour
 
 📫 How to reach me:
 
-`Website:` [Janindu.com](https://janindu.com) <br> 
+`Website:` [janindu.com](https://janindu.com) <br> 
 `Gmail:` janindumalshan259@gmail.com
 
 📊 My GitHub Stats:
