@@ -1,11 +1,9 @@
 <p align="center"> <h1 align="center"> Janindu Malshan </h1> </p>
-<p align="center">
-<a href="https://instagram.com/imjanindu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Janindu Malshan" height="20" width="20" /></a>
-<a href="https://facebook.com/imjanindu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Janindu Malshan" height="20" width="20" /></a>
-<a href="https://github.com/imjanindu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Janindu Malshan" height="20" width="20" /></a>
-<a href="https://t.me/imjanindu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Janindu Malshan" height="20" width="20" /></a>
-<a href="https://github.com/imjanindu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Janindu Malshan" height="20" width="20" /></a>
-</p>
+
+|<a href="https://t.me/imjanindu/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|       **[Janindu](https://t.me/imjanindu)**                                                                                |
+| <a href="https://github.com/imjanindu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://facebook.com/imjanindu"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://instagram.com/imjanindu"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a>|
 
 ✨ About Me:
 
