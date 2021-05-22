@@ -5,7 +5,7 @@
 |       **[Janindu](https://t.me/imjanindu)**                                                                                |
 | <a href="https://github.com/imjanindu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://facebook.com/imjanindu"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://instagram.com/imjanindu"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a>|
 
-✨ About Me:
+<br>✨ About Me:
 
 I'm Janindu. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community and currently working on opensource projects at [Infinity Bots](https://github.com/Infinity-Bots). I love Python and HTML. 
 
