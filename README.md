@@ -1,6 +1,6 @@
 <p align="center"> <h1 align="center"> Janindu Malshan </h1> </p>
 
-|<a href="https://t.me/imjanindu/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|<a href="https://t.me/imjanindu/"><img src="https://telegra.ph/file/d9fb6a07fe525b5726826.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |       **[Portfolio](https://janindu.com)**                                                                                |
 | <a href="https://github.com/imjanindu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://facebook.com/imjanindu"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://instagram.com/imjanindu"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a>|
