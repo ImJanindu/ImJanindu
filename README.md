@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Janindu Malshan ✨ </h1> </p>
+<p align="center"> <h1 align="center"> Janindu Malshan </h1> </p>
 
 |<a href="https://t.me/imjanindu/"><img src="https://telegra.ph/file/c95070b46576b30d5c852.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
