@@ -11,8 +11,9 @@ I'm Janindu. I'm a Full Stack Developer who is passionate about making open-sour
 
 📫 How to reach me:
 
+`Gmail:` janindumalshan259@gmail.com <br>
 `Website:` [janindu.com](https://janindu.com) <br> 
-`Gmail:` janindumalshan259@gmail.com
+`YouTube:` [TechZilla LK](https://www.youtube.com/channel/UCtFzQpC4SabZyr0mTEhISRA)
 
 📊 My GitHub Stats:
 
