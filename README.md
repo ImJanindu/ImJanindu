@@ -7,13 +7,12 @@
 
 <br>✨ About Me:
 
-I'm Janindu. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community and currently working on opensource projects at [Infinity Bots](https://github.com/Infinity-Bots). I love Python and HTML. 
+I'm Janindu. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community and currently working on opensource projects at [Jaguar Bots](https://t.me/JaguarBots). I love Python and HTML. 
 
 📫 How to reach me:
 
 `Gmail:` janindumalshan259@gmail.com <br>
 `Website:` [janindu.com](https://janindu.com) <br> 
-`YouTube:` [TechZilla LK](https://www.youtube.com/channel/UCtFzQpC4SabZyr0mTEhISRA)
 
 📊 My GitHub Stats:
 
