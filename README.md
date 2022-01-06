@@ -10,9 +10,9 @@ I'm Janindu. I'm a Full Stack Developer who is passionate about making open-sour
 
 📫 How to reach me:
 
-`Gmail:` janindumalshan259@gmail.com <br>
+`Telegram:` [Janindu](https://t.me/AboutLilJ) <br>
 `Website:` [janindu.com](https://janindu.com) <br> 
-`Telegram`: [Janindu](https://t.me/AboutLilJ) <br>
+`Gmail:` janindumalshan259@gmail.com <br>
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple alt=ImJanindu />
