@@ -3,7 +3,6 @@
 |<a href="https://t.me/imjanindu/"><img src="https://telegra.ph/file/cef8f20ec0e84b67fbbbb.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |       **[Portfolio](https://janindu.com)**                                                                                |
-| <a href="https://github.com/imjanindu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://facebook.com/imjanindu"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://instagram.com/imjanindu"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a>|
 
 <br>✨ About Me:
 
