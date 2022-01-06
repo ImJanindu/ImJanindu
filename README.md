@@ -12,6 +12,7 @@ I'm Janindu. I'm a Full Stack Developer who is passionate about making open-sour
 
 `Gmail:` janindumalshan259@gmail.com <br>
 `Website:` [janindu.com](https://janindu.com) <br> 
+`Telegram`: [Janindu](https://t.me/AboutLilJ) <br>
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple alt=ImJanindu />
