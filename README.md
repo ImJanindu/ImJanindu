@@ -6,7 +6,7 @@
 
 <br>✨ About Me:
 
-I'm Janindu. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community and currently working on opensource projects at [Jaguar Bots](https://t.me/JaguarBots). I love Python and HTML. 
+I'm Janindu. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community and currently working on opensource projects at [Jaguar Bots](https://t.me/JaguarBots). I love Python Programming.
 
 📫 How to reach me:
 
