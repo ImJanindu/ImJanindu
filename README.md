@@ -18,3 +18,7 @@ I'm Janindu. I'm a Full Stack Developer who is passionate about making open-sour
 	<img src=https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple alt=ImJanindu />
 </p>
 
+## 💰 Support Me
+
+<a href="https://ko-fi.com/jaguarbots" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="xditya" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
+
