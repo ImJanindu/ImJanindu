@@ -10,7 +10,7 @@ I'm Janindu. I'm a Full Stack Developer who is passionate about making open-sour
 
 📫 How to reach me
 
-`Telegram:` [Janindu](https://t.me/AboutLilJ) <br>
+`Telegram:` [@imtrulyjanindu](https://t.me/About_Janindu) <br>
 `Website:` [janindu.com](https://janindu.com) <br> 
 `Gmail:` janindumalshan259@gmail.com <br>
 
