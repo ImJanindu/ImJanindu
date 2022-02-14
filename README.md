@@ -12,7 +12,7 @@ I'm Janindu. I'm a Full Stack Developer who is passionate about making open-sour
 
 `Telegram:` [@imtrulyjanindu](https://t.me/About_Janindu) <br>
 `Website:` [jj47.ml](https://jj47.ml) <br> 
-`Gmail:` janindumalshan259@gmail.com <br>
+`Gmail:` janindu@jj47.ml <br>
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple alt=ImJanindu />
