@@ -11,8 +11,8 @@ I'm Janindu. I'm a Full Stack Developer who is passionate about making projects,
 📫 How to reach me
 
 `Telegram:` [@imtrulyjanindu](https://t.me/About_Janindu) <br>
-`Website:` [jj47.ml](https://jj47.ml) <br> 
-`Email:` janindu@jj47.ml <br>
+`Website:` [jj47.ml](https://janindu.pages.dev) <br> 
+`Email:` janindumalshan412@gmail.com <br>
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple alt=ImJanindu />
