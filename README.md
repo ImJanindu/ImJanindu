@@ -11,7 +11,7 @@ I'm Janindu. I'm a Full Stack Developer who is passionate about making projects,
 📫 How to reach me
 
 `Telegram:` [@imtrulyjanindu](https://t.me/About_Janindu) <br>
-`Website:` [jj47.ml](https://janindu.pages.dev) <br> 
+`Website:` [janindu.pages.dev](https://janindu.pages.dev) <br> 
 `Email:` janindumalshan412@gmail.com <br>
 
 <p align="center">
