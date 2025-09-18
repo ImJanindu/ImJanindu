@@ -37,9 +37,11 @@ I am a passionate and motivated undergraduate student with a strong interest in 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janindumalshan123&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janindumalshan123&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janindumalshan123&theme=radical" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janindumalshan123&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janindumalshan123&theme=radical" alt="Most Used Languages"/>
 </p>
+
 
 ---
 
