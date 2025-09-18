@@ -35,4 +35,4 @@ I am a passionate and motivated undergraduate student with a strong interest in 
 - 🌐 Portfolio: [Visit Website](https://janindu.vercel.app)  
 
 
-⭐️ *“Code is like poetry — it’s meant to be shared, refined, and enjoyed.”*  
+`⭐️ *“Code is like poetry — it’s meant to be shared, refined, and enjoyed.”* ` 
