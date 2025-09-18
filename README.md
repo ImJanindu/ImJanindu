@@ -5,7 +5,7 @@
 
 I am a passionate and motivated undergraduate student with a strong interest in **programming, problem-solving, mathematics, and emerging technologies**. I love learning, building, and contributing to projects that challenge my skills and expand my knowledge.  
 
----
+--
 
 ## 🚀 About Me  
 
@@ -15,7 +15,7 @@ I am a passionate and motivated undergraduate student with a strong interest in 
 - 🧮 Strong foundation in **Mathematics & Logical reasoning**  
 - 🌱 Currently exploring **Flask, Web Development, and Modern Tech Stacks**  
 
----
+--
 
 ## 🛠️ Skills & Technologies  
 
