@@ -28,20 +28,6 @@ I am a passionate and motivated undergraduate student with a strong interest in 
 - Git & GitHub  
 - MySQL / SQLite  
 
-## 📊 GitHub Stats  
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true" />
-</picture>
-
 ## 🤝 Connect with Me  
 
 - 📧 Email: **janindumalshan123@gmail.com**  
