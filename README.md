@@ -26,7 +26,9 @@ I am a passionate and motivated undergraduate student with a strong interest in 
 - Flask  
 - Tailwind CSS  
 - Git & GitHub  
-- MySQL / SQLite  
+- MySQL / SQLite
+- Mongodb
+- JavaFx  
 
 ## 🤝 Connect with Me  
 
