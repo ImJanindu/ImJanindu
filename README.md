@@ -11,7 +11,7 @@ I am a passionate and motivated undergraduate student with a strong interest in 
 - 💡 Passionate about **problem-solving** and **algorithmic thinking**  
 - 📚 Always curious about **new technologies** and their applications  
 - 🧮 Strong foundation in **Mathematics & Logical reasoning**  
-- 🌱 Currently exploring **Flask, Web Development, and Modern Tech Stacks**
+- 🌱 Currently exploring **Java, Web Development, and Modern Tech Stacks**
 
 ## 📊 GitHub Stats
 ![imjanindu's Stats](https://github-readme-stats.vercel.app/api?username=imjanindu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
