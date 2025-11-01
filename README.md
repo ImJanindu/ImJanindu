@@ -3,7 +3,7 @@
 🎓 **Undergraduate Bachelor of Technology in ICT (Hons)**  
 📍 *University of Sri Jayewardenepura*
 
-I am a passionate and motivated undergraduate student with a strong interest in **programming, problem-solving, mathematics, and emerging technologies**. I love learning, building, and contributing to projects that challenge my skills and expand my knowledge.  
+I am a passionate and motivated undergraduate student with a strong interest in **software development, cybersecurity, problem-solving, mathematics, and emerging technologies**. I love learning, building, and contributing to projects that challenge my skills and expand my knowledge.  
 
 ## 🚀 About Me  
 
