@@ -14,7 +14,6 @@ I am a passionate and motivated undergraduate student with a strong interest in 
 - 🌱 Currently exploring **Java, Web Development, and Modern Tech Stacks**
 
 ## 📊 GitHub Stats
-![imjanindu's Stats](https://github-readme-stats.vercel.app/api?username=imjanindu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![imjanindu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imjanindu&theme=vue-dark&hide_border=true)
 
 ## 🛠️ Skills & Technologies  
