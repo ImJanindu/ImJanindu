@@ -37,5 +37,5 @@ I am a passionate and motivated undergraduate student with a strong interest in 
 
 - 📧 Email: **janindumalshan123@gmail.com**  
 - 💼 LinkedIn: [@ImJanindu](www.linkedin.com/in/imjanindu)  
-- 🌐 Portfolio: [Visit Website](https://janindu.vercel.app)  
+- 🌐 Portfolio: [Visit Website](https://janindu.me)  
 
