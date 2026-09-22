@@ -1,41 +1,47 @@
-# Hi there 👋, I'm Janindu Malshan
+<h1 align="center">Hi there 👋, I'm Janindu Malshan</h1>
 
-🎓 **Undergraduate Bachelor of Technology in ICT (Hons)**  
-📍 *University of Sri Jayewardenepura*
+<h3 align="center">
+  Software Engineering | Systems & Networking | Machine Learning
+</h3>
 
-I am a passionate and motivated undergraduate student with a strong interest in **software development, cybersecurity, problem-solving, mathematics, and emerging technologies**. I love learning, building, and contributing to projects that challenge my skills and expand my knowledge.  
+<p align="center">
+  🎓 <b>BICT (Hons) Undergraduate</b> at the <i>University of Sri Jayewardenepura</i>
+</p>
 
-## 🚀 About Me  
+I am a software developer with a strong foundation in algorithmic thinking and a deep curiosity for how systems operate under the hood. Beyond standard web and application development, my work spans across **Linux system administration, network routing protocols, and containerized machine learning deployments**. I build tools that solve complex, real-world infrastructural problems.
 
-- 🔭 Currently pursuing my **BICT (Hons)** degree  
-- 💡 Passionate about **problem-solving** and **algorithmic thinking**  
-- 📚 Always curious about **new technologies** and their applications  
-- 🧮 Strong foundation in **Mathematics & Logical reasoning**  
-- 🌱 Currently exploring **Java, Web Development, and Modern Tech Stacks**
+## 🚀 What I'm Working On
 
-## 📊 GitHub Stats
-![imjanindu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imjanindu&theme=vue-dark&hide_border=true)
+- 🧠 **Deploying ML Models:** Containerizing YOLO computer vision models and other applications with Docker for real-time security applications.
+- 🐧 **Linux Architecture:** Deep diving into Linux operating systems and mastering core system administration fundamentals.
+- 📡 **Networking & Development:** Studying core network fundamentals and building custom software solutions related to network routing.
+- 🌐 **Application Development:** Exploring Next.js and Electron.js to build a variety of versatile web and cross-platform desktop applications.
 
-## 🛠️ Skills & Technologies  
+## 🛠️ Tech Stack & Tools
 
-**Programming Languages**  
-- Python 🐍  
-- Java ☕  
-- JavaScript ⚡  
-- C / C++ 💻  
-- HTML & CSS 🌐  
+**Languages:**
+`C#` | `Java` | `Python` | `TypeScript` | `JavaScript` | `C/C++` | `SQL`
 
-**Frameworks & Tools**  
-- Flask  
-- Tailwind CSS  
-- Git & GitHub  
-- MySQL / SQLite
-- Mongodb
-- JavaFx  
+**Frontend & Web:**
+`React` | `Next.js` | `Tailwind CSS` | `HTML/CSS` 
 
-## 🤝 Connect with Me  
+**Backend & Desktop:**
+`.NET` | `WPF (MVVM)` | `Flask` | `Electron.js` | `JavaFX`
 
-- 📧 Email: **janindumalshan123@gmail.com**  
-- 💼 LinkedIn: [@ImJanindu](www.linkedin.com/in/imjanindu)  
-- 🌐 Portfolio: [Visit Website](https://janindu.me)  
+**Infrastructure, Cloud & Databases:**
+`Docker` | `Tailscale` | `MySQL` | `Firebase` | `MongoDB` | `SQLite`
 
+**OS & Networking:**
+`Arch Linux` | `Fedora` | `Ubuntu` | `RHEL` | `Xray-core` | `VLESS` | `SSH`
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imjanindu&theme=vue-dark&hide_border=true" width="48%" />
+</p>
+
+## 🤝 Connect With Me
+
+- 🌐 **Portfolio:** [janindu.me](https://janindu.me)
+- 💼 **LinkedIn:** [in/imjanindu](https://www.linkedin.com/in/imjanindu)
+- 📧 **Email:** janindumalshan123@gmail.com
